@@ -32,45 +32,21 @@ export default function AboutPage() {
 
   const team = [
     {
-      name: "Sarah Chen",
+      name: "Allexander B",
       role: "Founder & CEO",
       description:
-        "Former infrastructure engineer at major tech companies. Passionate about democratizing access to reliable hosting.",
+        "Passionate about democratizing access to reliable hosting.",
     },
-    {
-      name: "Marcus Rodriguez",
-      role: "CTO",
-      description:
-        "20+ years in cloud infrastructure. Believes in building systems that scale with simplicity and reliability.",
-    },
-    {
-      name: "Elena Kowalski",
-      role: "Head of Support",
-      description: "Customer success expert who ensures every user gets the help they need, when they need it.",
-    },
+
   ]
 
   const milestones = [
     {
-      year: "2023",
+      year: "2025",
       title: "The Beginning",
       description: "Founded with a simple mission: make quality hosting accessible to everyone.",
     },
-    {
-      year: "2024",
-      title: "Free VPS Launch",
-      description: "Launched our free VPS service, providing reliable hosting to thousands of developers worldwide.",
-    },
-    {
-      year: "2024",
-      title: "Growing Community",
-      description: "Reached 10,000+ active users and expanded our dedicated server offerings.",
-    },
-    {
-      year: "2025",
-      title: "The Future",
-      description: "Continuing to innovate and expand our services while maintaining our core values.",
-    },
+  
   ]
 
   return (
