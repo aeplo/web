@@ -98,7 +98,7 @@ export default function AboutPage() {
                 scale, you deserve reliable infrastructure that doesn't break the bank."
               </blockquote>
               <div className="text-center mt-6">
-                <p className="text-muted-foreground">— Sarah Chen, Founder & CEO</p>
+                <p className="text-muted-foreground">— Allexander B, Founder & CEO</p>
               </div>
             </div>
           </div>
