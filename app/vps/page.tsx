@@ -5,9 +5,9 @@ import Link from "next/link"
 
 export default function VPSPage() {
   const freeVPSSpecs = {
-    CPU: "1 vCore",
-    RAM: "1GB",
-    Storage: "20GB SSD",
+    CPU: "4 vCore",
+    RAM: "12GB",
+    Storage: "50GB SSD",
     Bandwidth: "1TB",
     OS: "Ubuntu/CentOS",
     Support: "24/7",
