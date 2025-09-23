@@ -195,11 +195,11 @@ export default function AboutPage() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 text-center">
             <div>
-              <div className="text-4xl font-bold text-foreground mb-2">10,000+</div>
+              <div className="text-4xl font-bold text-foreground mb-2">0+</div>
               <p className="text-muted-foreground">Active Users</p>
             </div>
             <div>
-              <div className="text-4xl font-bold text-foreground mb-2">99.9%</div>
+              <div className="text-4xl font-bold text-foreground mb-2">0%</div>
               <p className="text-muted-foreground">Uptime</p>
             </div>
             <div>
@@ -207,7 +207,7 @@ export default function AboutPage() {
               <p className="text-muted-foreground">Support</p>
             </div>
             <div>
-              <div className="text-4xl font-bold text-foreground mb-2">50+</div>
+              <div className="text-4xl font-bold text-foreground mb-2">2+</div>
               <p className="text-muted-foreground">Countries Served</p>
             </div>
           </div>
